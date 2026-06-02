@@ -1,4 +1,8 @@
-test.ipynb
+notebooks/test.ipynb
 catboost_info
 modelos/modelos_residuos_lgb.joblib
 modelos/modelos_residuos_lineal.joblib
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/

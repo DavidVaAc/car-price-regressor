@@ -1,0 +1,6 @@
+streamlit ==1.54.0
+pandas==2.3.3
+joblib==1.5.3
+lightgbm==4.6.0
+scikit-learn==1.8.0
+pyarrow==23.0.1
