@@ -23,13 +23,13 @@ Pipeline completo de Machine Learning y aplicación interactiva en Streamlit par
 * **🔍 Interpretabilidad (SHAP):** la triada **`registration_year` × `power` × `mileage`** concentra la mayor parte del poder predictivo, seguida de `model`, `brand` y `not_repaired`. El comportamiento del modelo coincide con la lógica del mercado de segunda mano.
 
 <p align="center">
-  <img src="images/depreciacion_mercado.png" width="600" alt="Curva de depreciación capturada por el modelo">
+  <img src="images/shap.png" width="600" alt="Curva de depreciación capturada por el modelo">
 </p>
 
 * **🛠️ Filtros en cascada en la UI:** la aplicación encadena los selectores (`brand` → `model` → resto de características) sobre el histórico real, impidiendo que el usuario forme combinaciones inexistentes (ej. modelo que nunca ha tenido caja automática) y eliminando predicciones sobre datos imposibles.
 
 <p align="center">
-  <img src="images/app_screenshot.png" width="600" alt="Captura de la app de Streamlit">
+  <img src="images/filtros.png" width="600" alt="Captura de la app de Streamlit">
 </p>
 
 ---
