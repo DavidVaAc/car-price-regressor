@@ -36,7 +36,7 @@ Pipeline completo de Machine Learning y aplicación interactiva en Streamlit par
 
 ## 🛠️ Acceso al Proyecto
 
-### 📊 [Aplicación Interactiva (Streamlit)](https://car-price-regressor.streamlit.app/)
+### 📊 [Aplicación Interactiva (Streamlit)](https://car-price-predictor-app-ml.streamlit.app/)
 > Cotización en euros en tiempo real con filtros dinámicos. Ideal para una evaluación rápida del producto final.
 
 ### 📓 [Notebook de Modelado (Jupyter)](https://github.com/DavidVaAc/car-price-regressor/blob/main/notebooks/car_price_regressor.ipynb)
