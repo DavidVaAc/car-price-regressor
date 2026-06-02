@@ -1,0 +1,4 @@
+test.ipynb
+catboost_info
+modelos/modelos_residuos_lgb.joblib
+modelos/modelos_residuos_lineal.joblib
